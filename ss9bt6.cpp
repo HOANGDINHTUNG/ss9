@@ -133,6 +133,8 @@ int main(){
 			}
 			case 8:
 				break;
+			default:
+				printf("nhap sai roi vui long nhap lai(1-9)!!!!!!!")
 		}
 		if(choose==8){
 			printf("ket thuc chuong trinh!!!!!!");
